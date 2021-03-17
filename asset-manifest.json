@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Homie-Coffee-Shop/static/css/main.86fff331.chunk.css",
+    "main.js": "/Homie-Coffee-Shop/static/js/main.8d742d91.chunk.js",
+    "main.js.map": "/Homie-Coffee-Shop/static/js/main.8d742d91.chunk.js.map",
+    "runtime-main.js": "/Homie-Coffee-Shop/static/js/runtime-main.df088940.js",
+    "runtime-main.js.map": "/Homie-Coffee-Shop/static/js/runtime-main.df088940.js.map",
+    "static/js/2.d3ab932a.chunk.js": "/Homie-Coffee-Shop/static/js/2.d3ab932a.chunk.js",
+    "static/js/2.d3ab932a.chunk.js.map": "/Homie-Coffee-Shop/static/js/2.d3ab932a.chunk.js.map",
+    "index.html": "/Homie-Coffee-Shop/index.html",
+    "static/css/main.86fff331.chunk.css.map": "/Homie-Coffee-Shop/static/css/main.86fff331.chunk.css.map",
+    "static/js/2.d3ab932a.chunk.js.LICENSE.txt": "/Homie-Coffee-Shop/static/js/2.d3ab932a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df088940.js",
+    "static/js/2.d3ab932a.chunk.js",
+    "static/css/main.86fff331.chunk.css",
+    "static/js/main.8d742d91.chunk.js"
+  ]
+}
