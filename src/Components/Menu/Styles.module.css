@@ -1,0 +1,65 @@
+.mainHeader {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+
+    color: white;
+    padding: 7rem 1rem;
+}
+.header {
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 300;
+}
+
+.header p {
+    color: orange;
+}
+.header h2 {
+    font-weight: 500;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    word-wrap: break-word;
+    justify-content: space-around;
+}
+.container h3 {
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+.container p {
+    font-weight: 300;
+    padding: 1rem 0rem;
+}
+
+span {
+    color: orange;
+}
+
+.button {
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px white solid;
+    padding: 6px;
+    transition: transform 250ms ease-in-out;
+    transition: 500ms;
+    /* opacity: 0.6; */
+
+}
+
+.btn:hover,
+.btn:focus {
+    transform: scale(1.1);
+    opacity: 0.8;
+    background: #DBEBF4;
+    color: black;
+}

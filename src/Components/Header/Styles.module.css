@@ -1,0 +1,92 @@
+.container {
+    padding: 0 3rem 50rem 3rem;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url('https://images.pexels.com/photos/134577/pexels-photo-134577.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+    color: white;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.contact {
+    display: flex;
+    padding-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.contact1 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+.contact1 > * {
+    padding: 5px;
+}
+.img {
+    max-width: 100%;
+    width: 3rem;
+    border-radius: 50%;
+    margin-left: 3rem;
+}
+.logo {
+    color: orange;
+}
+
+.intro {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-top: 5rem;
+}
+
+.intro > * {
+    padding: 10px 0;
+}
+
+.intro > h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.description {
+    color: white;
+    font-size: 1.5rem;
+
+}
+
+.name {
+    color: orange;
+    font-size: 1.5rem;
+}
+
+.btn {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px white solid;
+    padding: 6px;
+    transition: transform 250ms ease-in-out;
+    transition: 500ms;
+    /* opacity: 0.6; */
+}
+
+.btn:hover,
+.btn:focus {
+    transform: scale(1.1);
+    opacity: 0.8;
+    background: #DBEBF4;
+    color: black;
+}
+
+
+
+
